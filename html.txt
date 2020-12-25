@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Computer Science</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+
+<body>
+    <nav id="navbar">
+        <ul style="list-style-type: none;">
+            <li class="item"><a href="">HOME</a></li>
+            <div class="dropdown">
+                <button class="dropbtn">ALGORITHMS &#8595</button>
+                <div class="dropdown-content">
+                    <a href="#">ANALYSIS OF ALGORITHM</a>
+                    <a href="#">SEARCHING AND SORTING</a>
+                    <a href="#">GREEDY ALGORITHMS</a>
+                    <a href="#">DYNAMIC PROGRAMMING</a>
+                    <a href="#">STRING ALGORITHMS</a>
+                    <a href="#">BACKTRACKING</a>
+                    <a href="#">DIVIDE AND CONQUER</a>
+                </div>
+            </div>
+            <div class="dropdown">
+                <button class="dropbtn">DS &#8595</button>
+                <div class="dropdown-content">
+                    <a href="#">DATA STRUCTURES</a>
+                    <a href="#">ARRAY</a>
+                    <a href="#">LINKED LIST</a>
+                    <a href="#">STACK</a>
+                    <a href="#">QUEUE</a>
+                    <a href="#">BINARY TREE</a>
+                </div>
+            </div>
+            <div class="dropdown">
+                <button class="dropbtn">LANGUAGES &#8595</button>
+                <div class="dropdown-content">
+                    <a href="#">C</a>
+                    <a href="#">C++</a>
+                    <a href="#">JAVA</a>
+                    <a href="#">PYTHON</a>
+                    <a href="#">SQL</a>
+                    <a href="#">PHP</a>
+                    <a href="#">JAVASCRIPT</a>
+                </div>
+            </div>
+            <div class="dropdown">
+                <button class="dropbtn">STUDENTS &#8595</button>
+                <div class="dropdown-content">
+                    <a href="#">CAMPUS PROGRAMS</a>
+                    <a href="#">PROJECTS</a>
+                    <a href="#">PLACEMENT COURSES</a>
+                </div>
+            </div>
+            <div class="dropdown">
+                <button class="dropbtn">GATE &#8595</button>
+                <div class="dropdown-content">
+                    <a href="#">GATE NOTES</a>
+                    <a href="#">GATES CS CORNER</a>
+                    <a href="#">GATE PAPERS</a>
+                </div>
+            </div>
+
+            <li class="item"><a href="">CODES</a></li>
+            <li class="item"><a href="">PUZZLES</a></li>
+            <li class="item"><a href="">CONTRIBUTE</a></li>
+            <input type="text" class="search" placeholder="Search">
+            <li class="item"><a href="">Login</a></li>
+        </ul>
+    </nav>
+    <div class="container" id="left">
+        <ul>
+            <li>Data Structures</li>
+            <li>Algorithms</li>
+            <li>DBMS</li>
+            <li>Computer Organisation</li>
+            <li>Computer Networks</li>
+            <li>Puzzles</li>
+            <li>GATE Notes</li>
+            <li>GATE Papers</li>
+            <li>CSE/IT Question Papers</li>
+        </ul>
+        <div class="megabox">
+            <div class="container1">
+                <section>
+                    <h2>Must Do Coding Questions for Companies like Amazon, Microsoft, Adobe</h2>
+                    <P>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Et tenetur aperiam exercitationem
+                        voluptates quod iure laborum culpa sed quae corrupti consequatur maiores, dolor in quos debitis
+                        ullam labore molestias assumenda enim non quam! </P>
+                    <hr>
+                    <a href="http://">Algorithms</a>
+                    <a href="http://">Tags</a>
+
+                    <a href="http://">Read More...</a>
+                </section>
+                <section>
+                    <h2>Must Do Coding Questions for Companies like Amazon, Microsoft, Adobe</h2>
+                    <P> Lorem ipsum, dolor sit amet consectetur adipisicing elit. Et tenetur aperiam exercitationem
+                        voluptates quod iure laborum culpa sed quae corrupti consequatur maiores, dolor in quos debitis
+                        ullam labore molestias assumenda enim non quam! </P>
+                    <hr>
+
+                    <a href="http://">Algorithms</a>
+                    <a href="http://">Tags</a>
+
+                    <a href="http://">Read More...</a>
+
+                </section>
+            </div>
+            <div class="container2">
+                <section>
+                    <h2>Must Do Coding Questions for Companies like Amazon, Microsoft, Adobe</h2>
+                    <P>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Et tenetur aperiam exercitationem
+                        voluptates quod iure laborum culpa sed quae corrupti consequatur maiores, dolor in quos debitis
+                        ullam labore molestias assumenda enim non quam! </P>
+                    <hr>
+                    <a href="http://">Algorithms</a>
+                    <a href="http://">Tags</a>
+
+                    <a href="http://">Read More...</a>
+                </section>
+                <section>
+                    <h2>Must Do Coding Questions for Companies like Amazon, Microsoft, Adobe</h2>
+                    <P> Lorem ipsum, dolor sit amet consectetur adipisicing elit. Et tenetur aperiam exercitationem
+                        voluptates quod iure laborum culpa sed quae corrupti consequatur maiores, dolor in quos debitis
+                        ullam labore molestias assumenda enim non quam! </P>
+                    <hr>
+
+                    <a href="http://">Algorithms</a>
+                    <a href="http://">Tags</a>
+
+                    <a href="http://">Read More...</a>
+
+                </section>
+
+            </div>
+
+            <div class="container3">
+                <p>Didn't find what you were searching for?</p>
+                <p>Write an article</p>
+                <p>Suggest a topic</p>
+            </div>
+            <div class="container3">
+                <p>Internship</p>
+                <p>Sitemap</p>
+                <p>Contact Us</p>
+                <p>Feedback</p>
+            </div>
+            <div class="container3">
+                <p>About Us</p>
+                <p>Privacy Policy</p>
+                <p>Cookie Policy</p>
+                <p>Terms and Conditions</p>
+            </div>
+            <div class="container3">
+                <p>Subscribe to newsletter via email</p>
+                <input type="text" placeholder="Email">
+                <button class="btn3">Subscribe</button>
+                <a href="#" class="fa fa-facebook"></a>
+                <a href="#" class="fa fa-twitter"></a>
+                <a href="#" class="fa fa-linkedin"></a>
+                <a href="#" class="fa fa-github"></a>
+            </div>
+</body>
+
+</html>
